@@ -71,12 +71,6 @@ We consider a **single-depot VRPTW**:
   - Personal best position
   - Global best position
 
-You can tune:
-- Number of particles
-- Number of iterations
-- Inertia weight, cognitive/social coefficients
-- Penalty coefficients
-
 ### 2️⃣ Genetic Algorithm (GA)
 
 - Each **chromosome** is a permutation of customer IDs.
@@ -86,13 +80,6 @@ You can tune:
   - Crossover: order/position-preserving crossover for permutations
   - Mutation: swap and inversion to maintain diversity
 - Fitness = total cost (fixed + transport + penalties)
-
-You can tune:
-- Population size
-- Number of generations
-- Crossover probability
-- Mutation probability
-- Penalty weights
 
 ---
 
