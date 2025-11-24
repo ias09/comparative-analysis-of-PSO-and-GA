@@ -118,8 +118,8 @@ On the footwear distribution dataset used in this project:
 ### Example: PSO vs GA Route Visualizations
 
 ```markdown
-![PSO Optimized Route](c:\Users\ASUS\comparative-analysis-of-PSO-and-GA\images\PSO Optimized Route.png)
+![PSO Optimized Route](images\PSO Optimized Route.png)
 *Figure 1: PSO-optimized vehicle routes*
 
-![GA Optimized Route](c:\Users\ASUS\comparative-analysis-of-PSO-and-GA\images\GA Optimized Route.png)
+![GA Optimized Route](images\GA Optimized Route.png)
 *Figure 2: GA-optimized vehicle routes*
